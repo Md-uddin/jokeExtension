@@ -1,0 +1,17 @@
+body{
+    width:25rem;
+    height: 12rem;
+    background:linear-gradient(to right,lightblue,aliceblue);
+    display:grid;
+    place-items: center;
+}
+#jokeElement{
+    width:20rem;
+    height:10rem;
+    background:linear-gradient(to bottom,aliceblue,rgb(230, 198, 233),rgb(182, 238, 221),rgb(220, 230, 173));
+    color:grey;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    font-size: 24px;
+}
